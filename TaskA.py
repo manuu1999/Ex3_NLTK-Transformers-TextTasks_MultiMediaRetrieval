@@ -23,5 +23,13 @@ def detect_language(text):
 
 
 # Example usage
-text = "Ciao, come stai? Questo è un esempio di testo in italiano."
-print("Detected Language:", detect_language(text))
+text_italian = "Ciao, come stai? Questo è un esempio di testo in italiano."
+print("Detected Language (Italian):", detect_language(text_italian))
+
+text_english = "Hello, how are you? This is an example of text in English."
+print("Detected Language (English):", detect_language(text_english))
+
+text_german = "Hallo, wie geht es dir? Dies ist ein Beispieltext in Deutsch."
+print("Detected Language (German):", detect_language(text_german))
+
+
