@@ -1,4 +1,4 @@
-# Practical Project: Text Analytics with NLTK and Transformers
+# Practical Project 2: Text Analytics with NLTK and Transformers 
 ## Short Introduction
 This project demonstrates various text analytics tasks using NLTK and Transformers. The tasks were implemented in Python using PyCharm as the development environment. The dataset used for tasks B and C is the IMDB Top 1000 Movies Dataset from Kaggle.
 
